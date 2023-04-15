@@ -1,0 +1,17 @@
+{
+    "name": "carlos/custom-iterable",
+    "autoload": {
+        "psr-4": {
+            "Carlos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cjuniordev",
+            "email": "carlosrogeriocr02@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2"
+    }
+}
